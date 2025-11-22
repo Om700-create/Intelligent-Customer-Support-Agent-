@@ -1,7 +1,8 @@
 # Intelligent-Customer-Support-Agent-
 # 🧠 Intelligent Customer Support Agent (AI-Powered, Full-Stack System)
 
-![Project Banner](/mnt/data/A_2D_digital_graphic_design_banner_showcases_the_t.png)
+![Project Banner](/mnt/data/A_2D_digital_graphic_design_banner_showcases_the_<img width="884" height="559" alt="Screenshot 2025-11-23 051547" src="https://github.com/user-attachments/assets/d8cbc1c1-a732-4a7a-8842-9af4804ace60" />
+t.png)
 
 An enterprise-grade **AI Customer Support Platform** built with:
 
