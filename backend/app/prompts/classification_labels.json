@@ -1,0 +1,16 @@
+{
+  "intents": ["billing", "technical", "account", "refund", "subscription", "general"],
+  "sentiments": ["positive", "neutral", "negative"],
+  "tags": [
+    "invoice",
+    "login",
+    "refund",
+    "password",
+    "performance",
+    "bug",
+    "crash",
+    "subscription",
+    "upgrade",
+    "downgrade"
+  ]
+}

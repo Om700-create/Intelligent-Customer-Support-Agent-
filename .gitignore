@@ -205,3 +205,33 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+.venv/
+venv/
+
+# Env
+.env
+.env.*
+
+# Node
+node_modules/
+dist/
+build/
+
+# VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/launch.json
+
+# Misc
+.DS_Store
+.idea/
+*.log
+.coverage
+htmlcov/
